@@ -2,7 +2,6 @@
 
 ## Presentation
 
-## Works On
-
+## Hands On
 
 ## Expert Lecture
