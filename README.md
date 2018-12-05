@@ -1,5 +1,15 @@
 # FDP_Material
-This repository contains FDP presentations and scripts.
+This repository contains presentations and R scripts for the Faculty Development Programme on "NETWORK SCIENCE: FOUNDATION OF
+SOCIAL NETWORK ANALYSIS" organised by TEACHING LEARNING CENTER, Ramanujan College, and Department of Computer Science, University of Delhi during December 3-8, 2018.
+
+Presenters:
+===========
+From Network Science Lab (http://people.du.ac.in/~vbhatnagar/NetworkScienceLab/NSLab.htm),
+      Prof. Vasudha Bhatnagar
+      Dr. Sharanjit Kaur
+      Rakhi Saxena
+      Swagata Duari
+      Kirti Jain
 
 File formats:
 =============
