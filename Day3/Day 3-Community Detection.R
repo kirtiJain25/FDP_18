@@ -1,6 +1,6 @@
 #######################################################################################
 #           FDP on NETWORK SCIENCE: FOUNDATION OF SOCIAL NETWORK ANALYSIS             #
-#                                (December 03-08, 2018)                               #
+#                                (December 05-08, 2018)                               #
 #                 Department of Computer Science, University of Delhi                 #
 #                                                                                     #
 #                             (DAY 3: Community Detection)                            #
