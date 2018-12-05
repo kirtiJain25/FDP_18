@@ -1,4 +1,4 @@
-# Faculty Development Programme on "NETWORK SCIENCE: FOUNDATION OF SOCIAL NETWORK ANALYSIS"
+# Faculty Development Programme 
 This repository contains presentations and R scripts for the Faculty Development Programme on "NETWORK SCIENCE: FOUNDATION OF
 SOCIAL NETWORK ANALYSIS" organised by TEACHING LEARNING CENTER, Ramanujan College, and Department of Computer Science, University of Delhi during December 3-8, 2018.
 
