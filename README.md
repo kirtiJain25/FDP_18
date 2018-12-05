@@ -4,12 +4,7 @@ SOCIAL NETWORK ANALYSIS" organised by TEACHING LEARNING CENTER, Ramanujan Colleg
 
 Presenters:
 ===========
-From Network Science Lab (http://people.du.ac.in/~vbhatnagar/NetworkScienceLab/NSLab.htm),
-      Prof. Vasudha Bhatnagar
-      Dr. Sharanjit Kaur
-      Rakhi Saxena
-      Swagata Duari
-      Kirti Jain
+From Network Science Lab (http://people.du.ac.in/~vbhatnagar/NetworkScienceLab/NSLab.htm): Prof. Vasudha Bhatnagar, Dr. Sharanjit Kaur, Rakhi Saxena, Swagata Duari, and Kirti Jain.
 
 File formats:
 =============
